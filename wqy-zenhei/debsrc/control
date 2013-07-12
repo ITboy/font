@@ -1,0 +1,11 @@
+Package: %NAME%
+Version: %VERSION%
+Section: Miscellaneous - Graphical
+Priority: optional
+Replaces: ttf-%NAME%
+Architecture: all
+Depends: xfonts-utils (>= 1.0.0)
+Suggests: xfs | xserver
+Installed-Size: 13124
+Maintainer: Qianqian Fang <fangq@nmr.mgh.harvard.edu>
+Description: 

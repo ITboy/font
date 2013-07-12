@@ -1,0 +1,19 @@
+Package: wqy-zenhei
+Version: 0.9.45
+Section: Miscellaneous - Graphical
+Priority: optional
+Replaces: ttf-wqy-zenhei
+Architecture: all
+Depends: xfonts-utils (>= 1.0.0)
+Suggests: xfs | xserver
+Installed-Size: 13124
+Maintainer: Qianqian Fang <fangq@nmr.mgh.harvard.edu>
+Description: 
+ WenQuanYi Zen Hei is a Hei-Ti style (sans-serif) Chinese 
+ outline font. It is designed for general purpose text layout 
+ and on-screen display of Chinese characters and symbols from
+ many other languages. The emboldened strokes of the font glyphs 
+ produce enhanced screen contrast, making it easier to read and
+ recognize. The embedded bitmap glyphs, which can be enabled 
+ with the provided configuration files, further enhance the 
+ on-screen performance.
